@@ -18,6 +18,7 @@ body {
   display: block;
   margin: auto;
   max-width: 66ch;
+  background-color: #f1f1f1;
 }
 
 p {
@@ -119,6 +120,16 @@ code {
   right: 0;
 }
 
+
+.form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #000;
+  width: 300px;
+  margin: auto;
+  margin-top: 100px;
+}
 
 /* Error area */
 .red-border {

@@ -34,7 +34,7 @@ users to hide bookmarks using features already built into every web browser.
 There are two versions available:
 
 - [A stable, simplified version integrated directly into Link
-  Lock](https://jstrieb.github.io/link-lock/hidden/)
+  Lock](https://link.myprivatemessaging.com/link-lock/hidden/)
 - [An experimental
   version](https://jstrieb.github.io/projects/hidden-bookmarks/#demo), designed
   to test the limits of the idea
@@ -112,7 +112,7 @@ password-protected.)
 
 Despite shortcomings, bookmark knocking is still a useful part of
 defense-in-depth. For more serious security, use the version built into [Link
-Lock](https://jstrieb.github.io/link-lock/).
+Lock](https://link.myprivatemessaging.com/link-lock/).
 
 **Don't forget to use private browsing or incognito mode when accessing hidden
 links, otherwise the secret links are stored in your browser history, and the
@@ -146,7 +146,7 @@ form](https://jstrieb.github.io/about#contact).
 - Only tested with desktop Firefox and Chrome. Not tested with Safari, Edge, or
   on mobile devices.
 - Despite spending hours revising the instructions for the [Link Lock hidden
-  bookmarks](https://jstrieb.github.io/link-lock/hidden/) page, it is still far
+  bookmarks](https://link.myprivatemessaging.com/link-lock/hidden/) page, it is still far
   from perfect. Making this idea easy to use and understand is very difficult.
 
 

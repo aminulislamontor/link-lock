@@ -20,7 +20,7 @@ could just as easily notice that. What do you do? Unfortunately, this is a
 [realistic scenario for many
 people](https://www.nytimes.com/wirecutter/blog/domestic-abusers-can-control-your-devices-heres-how-to-fight-back/).
 
-Almost a year ago, I created [Link Lock](https://jstrieb.github.io/link-lock)
+Almost a year ago, I created [Link Lock](https://link.myprivatemessaging.com/)
 -- a tool to enable anyone to securely password-protect URLs. But adding a
 password to links isn't always enough.
 
@@ -134,7 +134,7 @@ Example use cases:
 
 If you have ideas for how to address the following problems, or want to discuss
 others, please [open an issue on
-GitHub](https://github.com/jstrieb/link-lock/issues/new) or use my [contact
+GitHub](https://github.com/aminulislamontor/link-lock/issues/new) or use my [contact
 form](https://jstrieb.github.io/about#contact).
 
 - Generated bookmarks are prefixed with `javascript:` and therefore cannot have

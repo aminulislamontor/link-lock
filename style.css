@@ -101,6 +101,15 @@ code {
   padding: 0 3px;
 }
 
+input[type="text"],textarea,input,
+input[type="password"] {
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0px 0px 5px #000;
+}
 
 /*******************************************************************************
  * Classes
